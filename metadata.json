@@ -1,0 +1,7 @@
+{
+  "name": "Makaranta AI - Filin Koyo na Zamani",
+  "description": "Wani babban filin karatu na AI wanda ke taimakawa masu jin Hausa koyon Turanci da Larabci ta hanyar fassara jimloli, kalmomi daki-daki, da kuma samar da kalmomin karatu na musamman.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
